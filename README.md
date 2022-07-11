@@ -1,4 +1,4 @@
-# ML_DL
+# MachineLeaning And DeepLearning Examples
 
 # Machine Learning
 Classification algorithms divided by the number of classes to classify:

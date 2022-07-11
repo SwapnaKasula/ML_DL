@@ -1,4 +1,4 @@
-# MachineLeaning And DeepLearning
+# MachineLearning And DeepLearning
 
 # Machine Learning
 Classification algorithms divided by the number of classes to classify:
